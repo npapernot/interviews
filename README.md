@@ -8,6 +8,7 @@ following:
 * Chapter 6: Arrays and Strings 
 * Chapter 7: Recursion
 * Chapter 8: Sorting
+* Chapter 13: Graphics and Bits Manipulation
 
 I encourage you to open issues if you find bugs or possible improvements (time
 or space complexity) in my solutions. Similarly, if you have additional
