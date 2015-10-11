@@ -11,6 +11,7 @@ request.
 
 Good luck for your interview preparation!
 
+Ways to get in touch with me:
 * Twitter: <http://www.twitter.com/nicolaspapernot>
 * Webpage: <http://www.papernot.fr> 
 
