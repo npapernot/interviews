@@ -11,7 +11,7 @@ request.
 
 Good luck for your interview preparation!
 
-Twitter: <www.twitter.com/nicolaspapernot>
-Webpage: <www.papernot.fr> 
+Twitter: <http://www.twitter.com/nicolaspapernot>
+Webpage: <http://www.papernot.fr> 
 
 
