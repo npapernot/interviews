@@ -13,3 +13,22 @@ def str_2_int(s):
 print str_2_int("-245")
 print str_2_int("0")
 print str_2_int("854930")
+
+
+def int_2_str(x):
+	result = ""
+	if x == 0:
+		return "0"
+	elif x<0:
+		result = "-"
+		x = -x
+	while x != 0:
+		digit = x % 10	
+		result = result + str(digit)
+		x = (x - digit) / 10
+	return result
+
+
+print int_2_str(-584390)
+print int_2_str(0)
+print int_2_str(8594203)
