@@ -10,7 +10,6 @@ Java. The chapters covered are the following:
 * Chapter 7: Recursion
 * Chapter 8: Sorting
 * Chapter 13: Graphics and Bits Manipulation
-* Folder 0-miscellaneous: This folder contains miscellaneous algorithm implementations useful to answer technical questions. 
 
 I encourage you to open issues if you find bugs or possible improvements (time
 or space complexity) in my solutions. Similarly, if you have additional
