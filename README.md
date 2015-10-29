@@ -1,7 +1,9 @@
 # Technical Interview Problems with Solution Source Code
 
 The problems in this repository are extracted from "Programming Interviews
-Exposed: Secrets to Landing Your Next Job" by Mongan et al. 
+Exposed: Secrets to Landing Your Next Job" by Mongan et al. The folder 
+`problems` also includes some miscellaneous problems that I add when I find
+them or hear about them.  
 
 Solutions were implemented by myself in Python and by Stefan Achleitner in
 Java. The chapters covered are the following: 
